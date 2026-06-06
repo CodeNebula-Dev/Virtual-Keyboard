@@ -125,7 +125,7 @@ VirtualKeyboard/
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/VirtualKeyboard.git
+git clone https://github.com/CodeNebula-Dev/VirtualKeyboard.git
 cd VirtualKeyboard
 
 # Create a virtual environment (recommended)
